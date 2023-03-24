@@ -1,0 +1,2 @@
+# KompartmentalisPK
+Kompartmentális farmakokinetika demonstráció
