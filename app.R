@@ -68,7 +68,8 @@ ui <- fluidPage(
   
   p("A weboldal és az elemzések teljes forráskódja ",
     a("itt", href = "https://github.com/tamas-ferenci/KompartmentalisPK", target = "_blank"),
-    "érhető el. Írta: Ferenci Tamás."),
+    "érhető el. Írta: ", a("Ferenci Tamás", href = "http://www.medstat.hu/", target = "_blank",
+                           .noWS = "outside"), "."),
   
   div(style = "line-height: 13px;",
       div(class = "fb-share-button",
